@@ -1,21 +1,6 @@
 #!/usr/bin/env amm
 // Ammonite 2.5.2, scala 2.13
 
-/*
-import $ivy.`com.github.p2m2::discovery:v0.3.2`
-import inrae.semantic_web.rdf.{IRI, URI}
-import inrae.semantic_web.{SWDiscovery, StatementConfiguration}
-
-import java.io.{BufferedWriter, File, FileWriter, StringWriter}
-
-import scala.concurrent.duration.Duration
-import scala.concurrent.{Await, ExecutionContext}
-
-import java.io.File;
-
-import $file.Common
-*/
-
 import scala.io.Source
 import java.io._
 
